@@ -94,12 +94,7 @@
 
 ## 📊 **GitHub Stats & Metrics**
 
-<div align="center">
-  <a href="https://github.com/shubthenub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubthenub&show_icons=true&theme=ayu_mirage&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubthenub&layout=compact&theme=ayu_mirage&hide_border=true&langs_count=6" />
-</a>
-</div>
+
 <br />
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubthenub&theme=ayu_mirage&hide_border=true" alt="shubthenub's streak" />
