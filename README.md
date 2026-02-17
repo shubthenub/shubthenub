@@ -50,8 +50,24 @@
         <img src="https://img.shields.io/badge/Hume_AI-Voice-purple?style=flat-square" />
         <img src="https://img.shields.io/badge/Gemini_AI-Reasoning-blue?style=flat-square&logo=google" />
         <img src="https://img.shields.io/badge/Drizzle_ORM-DB-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel-Deployment-black?style=flat-square&logo=vercel" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/shubthenub/live-auction-app">Live Auction API</a></h3>
+      <p align="center">
+        A real-time bidding platform with atomic bid handling, Redis-powered live auctions with Web Sockets, JWT authentication and more.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js" />
+        <img src="https://img.shields.io/badge/Express.js-API-black?style=flat-square&logo=express" />
+        <img src="https://img.shields.io/badge/MongoDB-Database-darkgreen?style=flat-square&logo=mongodb" />
+        <img src="https://img.shields.io/badge/Upstash-Redis-red?style=flat-square&logo=redis" />
+        <img src="https://img.shields.io/badge/Render-Deployment-purple?style=flat-square&logo=render" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">▶️ <a href="https://github.com/shubthenub/Yt-clone">YouTube Clone</a></h3>
       <p align="center">A basic clone of the YouTube UI, built with React and integrating the official YouTube Data API.</p>
@@ -61,8 +77,6 @@
         <img src="https://img.shields.io/badge/Material_UI-Design-blue?style=flat-square&logo=mui" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📱 <a href="https://github.com/shubthenub/klick">Klick: Social Platform (Experiment/Learning)</a></h3>
       <p align="center">A social media app featuring real-time updates, secure authentication, and rich media sharing.</p>
@@ -72,7 +86,6 @@
         <img src="https://img.shields.io/badge/Realtime-Updates-blue?style=flat-square" />
       </p>
     </td>
-     
   </tr>
 </table>
 </div>
