@@ -29,9 +29,8 @@
 
 ### About
 
-3rd-year B.Tech CSE (Data Science) at Manipal University Jaipur · CGPA 8.74
-Building backend systems and AI-integrated products — that solve real problems, not just hobby projects.
-Open to SDE/ Fullstack roles.
+Final-year B.Tech CSE (Data Science) at Manipal University Jaipur · 
+Building backend systems and AI-integrated products.
 
 ---
 
@@ -74,21 +73,6 @@ Open to SDE/ Fullstack roles.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubthenub&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubthenub&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubthenub&theme=github-dark-blue&hide_border=true" />
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
