@@ -71,9 +71,4 @@ Building backend systems and AI-integrated products.
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,linux&theme=dark" />
 </div>
 
----
 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
-</div>
