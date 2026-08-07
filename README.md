@@ -38,7 +38,7 @@ Building backend systems and AI-integrated products.
 
 **Languages**
 <div>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java&theme=dark" />
 </div>
 
 <br/>
@@ -52,6 +52,11 @@ Building backend systems and AI-integrated products.
 
 **Backend & Databases**
 <div>
+  <img
+    src="https://cdn.simpleicons.org/springboot/6DB33F"
+    alt="Spring Boot"
+    width="48"
+  />
   <img src="https://skillicons.dev/icons?i=nodejs,express,redis,postgres,mongodb&theme=dark" />
 </div>
 
